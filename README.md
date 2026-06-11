@@ -110,7 +110,7 @@ A2: Gravity is a force that pulls objects toward each other...
 
 ## 👤 Author
 
-Made by **[Abdoul Abbas]** — learning AI development one project at a time.
+Made by **Abdoul Abbas** — learning AI development one project at a time.
 
 ---
 
